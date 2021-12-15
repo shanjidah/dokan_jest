@@ -17,6 +17,18 @@ wp-content/themes/twenty*/
 # ignore node dependency directories
 node_modules/
 
+node_modules
+build
+npm-debug.log
+.DS_Store
+includes/.DS_Store
+.DS_Store
+.idea
+/includes/.DS_Store
+plugin-deploy.sh
+secret.json
+debug.log
+
 # ignore log files and databases
 *.log
 *.sql
