@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "test": "jest",
+    "test": "jest --verbose" 
+  },
+  "devDependencies": {
+    "@wordpress/e2e-test-utils": "^5.4.10",
+    "jest": "^27.4.5",
+    "jest-puppeteer": "^6.0.3",
+    "puppeteer": "^13.0.1"
+  },
+  "name": "dokan_jest",
+  "description": "",
+  "version": "1.0.0",
+  "main": "jest-puppeteer.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanjidah/dokan_jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanjidah/dokan_jest/issues"
+  },
+  "homepage": "https://github.com/shanjidah/dokan_jest#readme"
+}
